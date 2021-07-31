@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bang Order</string>
+    <string name="bangorderdesc">Contactless Food Ordering with Integrated Payment Gateway</string>
+    <string name="title_actionbar">Cafe Sejenak</string>
+    <string name="aboutme">Tentang Saya</string>
+    <string name="namaku">Fachmi Dimas Ardhana</string>
+    <string name="emailku">fachmi2007@gmail.com</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="deskripsi_singkat">Deskripsi Singkat</string>
+    <string name="harga_makanan">Harga Makanan</string>
+    <string name="detail_informasi">Detail informasi</string>
+    <string name="note_for_us">Note for Us</string>
+    <string name="opsional">(Opsional)</string>
+    <string name="btn_cart">Tambahkan ke Keranjang</string>
+    <string name="deskripsi_menu_detail">Deskripsi Menu Detail</string>
+    <string name="harga_menu_detail">Harga Menu Detail</string>
+    <string name="nama_menu_detail">Nama Menu Detail</string>
+</resources>
